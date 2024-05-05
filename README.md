@@ -11,6 +11,9 @@ I am studying in Applied Computer Science.
 * 🧠  I'm learning Node.js Express.js React.js
 * ⚡  I'm a man
 
+<a href="https://www.github.com/NaphonJangjit" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/NaphonJangjit?logo=github&style=for-the-badge&color=ef4444&labelColor=581c87" /></a>
+
 ### Skills
 
 
@@ -27,12 +30,14 @@ I am studying in Applied Computer Science.
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/NaphonJangjit"><img src="https://github-readme-stats.vercel.app/api?username=NaphonJangjit&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="NaphonJangjit's GitHub stats" /></a>
+<a href="http://www.github.com/NaphonJangjit"><img src="https://github-readme-stats.vercel.app/api?username=NaphonJangjit&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ec4899&icon_color=ef4444&bg_color=581c87&hide_border=true&show_icons=true" alt="NaphonJangjit's GitHub stats" /></a>
 
-<a href="http://www.github.com/NaphonJangjit"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NaphonJangjit&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/NaphonJangjit"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NaphonJangjit&stroke=ec4899&background=581c87&ring=ef4444&fire=ef4444&currStreakNum=ec4899&currStreakLabel=ef4444&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
 
-<a href="https://github.com/NaphonJangjit" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaphonJangjit&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/NaphonJangjit"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=NaphonJangjit&bg_color=581c87&color=ec4899&line=ef4444&point=ec4899&area_color=581c87&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/NaphonJangjit" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaphonJangjit&langs_count=10&title_color=ef4444&text_color=ec4899&icon_color=ef4444&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/NaphonJangjit/Panyapradit" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NaphonJangjit&repo=Panyapradit&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/NaphonJangjit/Panyapradit" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NaphonJangjit&repo=Panyapradit&title_color=ef4444&text_color=ec4899&icon_color=ef4444&bg_color=581c87&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
