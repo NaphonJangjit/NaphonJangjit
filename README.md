@@ -7,7 +7,7 @@ Computer Science Student
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [thewhalezaza900@gmail.com](mailto:thewhalezaza900@gmail.com)
 * 🧠  I'm learning Fortran and Assembly
-* ⚡  I'm 18.
+* ⚡  I'm 18 years old.
 
 <a href="https://www.github.com/NaphonJangjit" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/NaphonJangjit?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
