@@ -10,7 +10,7 @@ I am a computer science student.<br>I am studying at KMUTT, Thailand.<br>I am le
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NaphonJangjit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NaphonJangjit&icon=3&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=NaphonJangjit&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/thewhalezaza) 
